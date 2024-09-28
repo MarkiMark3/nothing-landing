@@ -1,6 +1,6 @@
 # Author: Markiyan Dmyterko
 
-1.The Nothing Landing page is a project that focusing on structure and efficient fron-end development
+1.The Nothing Landing page is a project that focuses on structure and efficient front-end development
 2.Technologies Used: HTML, SCSS, Stylelint(for CSS linting)
 
 - [DEMO LINK](https://MarkiMark3.github.io/nothing-landing/)
