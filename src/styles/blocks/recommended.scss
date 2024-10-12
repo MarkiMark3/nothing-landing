@@ -21,3 +21,7 @@
 .product__photo {
   @include transPhoto;
 }
+
+.product__price{
+  font-weight: bold;
+}
