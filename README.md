@@ -1,8 +1,25 @@
 # Author: Markiyan Dmyterko
 
-1.The Nothing Landing page is a project that focuses on structure and efficient front-end development;
-2.Technologies Used: HTML, SCSS, Stylelint(for CSS linting);
-3.How to run this project localy:(a.Clone this project from GITHUB;b.NODE version should be 14;c. Run NPM instal;d. Run NPM start;);
+# The Nothing page
+
+The Nothing Landing page is a project that focuses on structure and efficient front-end development;
+
+## Technologies Used
+
+- HTML
+- SCSS
+- Stylelint
+
+## How to Run This Project Locally
+
+1. Clone this project from GitHub repository.
+2. Ensure **Node version** should be 14.
+3. Run the following command:
+
+- npm install
+- npm start
+
+## Project Links
 
 - [DEMO LINK](https://MarkiMark3.github.io/nothing-landing/)
 - [REPO LINK](https://github.com/MarkiMark3/nothing-landing)
